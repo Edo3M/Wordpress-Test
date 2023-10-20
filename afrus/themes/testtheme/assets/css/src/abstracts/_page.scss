@@ -1,0 +1,10 @@
+.page-banner {
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    color: #fff;
+
+    .page-banner_overflow {
+        background-color: rgba($color: #000000, $alpha: 0.3);
+    }
+}
