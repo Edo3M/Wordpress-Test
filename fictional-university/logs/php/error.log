@@ -1,0 +1,41 @@
+[10-Oct-2023 16:05:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:266
+Stack trace:
+#0 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(310): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-admin\admin.php(239): require_once('C:\\Users\\Ed\\Loc...')
+#5 {main}
+  thrown in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 266
+[10-Oct-2023 16:05:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:266
+Stack trace:
+#0 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(310): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-admin\admin.php(239): require_once('C:\\Users\\Ed\\Loc...')
+#5 {main}
+  thrown in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 266
+[10-Oct-2023 16:06:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php:266
+Stack trace:
+#0 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(310): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 C:\Users\Ed\Local Sites\fictional-university\app\public\wp-admin\admin.php(239): require_once('C:\\Users\\Ed\\Loc...')
+#5 {main}
+  thrown in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\plugins\all-in-one-wp-migration-unlimited-extension\lib\controller\class-ai1wmue-main-controller.php on line 266
+[21-Nov-2023 17:07:06 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 7
+[21-Nov-2023 17:07:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[21-Nov-2023 17:07:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[21-Nov-2023 17:08:00 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[21-Nov-2023 17:08:36 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[21-Nov-2023 17:08:55 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[21-Nov-2023 17:09:07 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[21-Nov-2023 17:09:19 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[21-Nov-2023 17:09:28 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[21-Nov-2023 17:10:04 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[21-Nov-2023 17:10:40 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[21-Nov-2023 17:11:08 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\functions.php on line 5
+[21-Nov-2023 18:23:50 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 14
+[21-Nov-2023 18:41:54 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Ed\Local Sites\fictional-university\app\public\wp-content\themes\fictional-university-theme\inc\search-route.php on line 25
